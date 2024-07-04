@@ -1,0 +1,4 @@
+auth.yaml
+.env
+poetry.lock
+README.md
